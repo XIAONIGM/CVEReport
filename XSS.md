@@ -6,7 +6,7 @@ Website source code address: https://www.sourcecodester.com/php/14631/online-jew
 
 Vulnerability File: /jewerly/customer.php
 
-GET Parameter Custid exists reflected cross-site scripting vulnerability
+POST Parameter Custid exists reflected cross-site scripting vulnerability
 
 Payload1: Custid=<script>alert(999)</script>
 
