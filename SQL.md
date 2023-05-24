@@ -1,8 +1,4 @@
-# Theme Park Ticketing System v1.0 has SQL injection
-
 BUG_Author: dengbaihao
-
-Website source code address: https://www.sourcecodester.com/php/14613/theme-park-ticketing-system-using-phpmysqli-source-code.html
 
 Vulnerability File: /tpts/print_ticket.php
 
