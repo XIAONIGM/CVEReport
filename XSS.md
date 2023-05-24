@@ -1,8 +1,4 @@
-# Online Jewelry Store v1.0 has reflected cross-site scripting vulnerability
-
 BUG_Author: dengbaihao
-
-Website source code address: https://www.sourcecodester.com/php/14631/online-jewelry-store-php-full-source-code.html
 
 Vulnerability File: /jewerly/customer.php
 
